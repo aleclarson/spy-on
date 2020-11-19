@@ -1,0 +1,9 @@
+{
+  "files": ["spyOn.ts"],
+  "compilerOptions": {
+    "lib": ["esnext"],
+    "strict": true,
+    "target": "esnext",
+    "module": "commonjs"
+  }
+}
